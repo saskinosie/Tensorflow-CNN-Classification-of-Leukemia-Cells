@@ -90,7 +90,7 @@ The images indicate that cancerous cells and healthy cells share common morpholo
 <br>
 <br>
     
-|  | | 
+|Evaluation Group|Score | 
 | --- | --- | 
 | Train Loss    | 0.26| 
 | Validation Loss   | 0.54 | 
