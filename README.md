@@ -116,7 +116,7 @@ The augmentation is almost negligible to the human eye but both improved the acc
  <br>
 <br>
 
-|No Augmentation||Augmentation||
+|No Augmentation|Score|Augmentation|Score|
 |---|---|---|---|
 |Train Loss|0.26|Train Loss|0.30|
 |Validation Loss|0.54|Validation Loss|0.28|
